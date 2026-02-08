@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kora Sireesha</h1>
 <h3 align="center">Engineering student at RGMCET focused on Java, Python ,Frontend Development. Currently building real projects.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sireesha-kora&label=Profile%20views&color=0e75b6&style=flat" alt="sireesha-kora" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sireesha-kora" alt="sireesha-kora" /></a> </p>
 
 - 🌱 I’m currently learning **Backend Frameworks, Deep Learning.**
 
